@@ -39,3 +39,5 @@ Check the Output folder to get the splitted files.
 
 ![image](https://user-images.githubusercontent.com/24988992/127738380-50b48eb1-adc8-4dbb-bebc-14a839962b46.png)
 
+
+Incase you face any problem. Reach out to me [here](https://www.linkedin.com/in/kumodjha/)
